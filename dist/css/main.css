@@ -513,4 +513,19 @@ footer .fa {
       .navbar-default .navbar-nav > li > a {
         font-size: .9em;
       }
-    }
+      .titulo_seccion {
+    font-size: 1.5em;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.btn-style {
+    font-size: 1em;
+
+}  
+.inner-foto {
+    display: block;
+     margin: 0; 
+     padding: 0; 
+     width: 100%; 
+}
+  }
