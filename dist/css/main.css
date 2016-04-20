@@ -508,7 +508,7 @@ footer .fa {
         padding: 0;
       }
       .inner-bio {
-        padding: 65px 35px; 
+        padding: 40px 35px; 
       }
       .navbar-header a.navbar-brand {
         font-size: 2em;
@@ -518,12 +518,11 @@ footer .fa {
       }
       .titulo_seccion {
     font-size: 1.5em;
-    padding-top: 0;
-    padding-bottom: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .btn-style {
     font-size: 1em;
-
 }  
 .inner-foto {
     display: block;
@@ -533,5 +532,9 @@ footer .fa {
 }
 .botonera-works{
   padding-bottom: 15px;
+  }
+  footer .fa{
+    font-size: 35px;
+    padding: 15px;
   }
 }
