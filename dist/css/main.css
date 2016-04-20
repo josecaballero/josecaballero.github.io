@@ -518,7 +518,7 @@ footer .fa {
       }
       .titulo_seccion {
     font-size: 1.5em;
-    padding-top: 40px;
+    padding-top: 0;
     padding-bottom: 0;
 }
 .btn-style {
@@ -531,4 +531,7 @@ footer .fa {
      padding: 0; 
      width: 100%; 
 }
+.botonera-works{
+  padding-bottom: 15px;
   }
+}
