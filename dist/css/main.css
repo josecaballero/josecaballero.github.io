@@ -80,7 +80,7 @@ a:focus {
   border-color: transparent; }
 
 .navbar-fixed-top {
-  padding: 0;
+  padding: 20px;
   transition: background .5s ease-in-out,padding .5s ease-in-out; }
 
 .navbar-header a.navbar-brand {
@@ -504,6 +504,9 @@ footer .fa {
       h1, .typed-cursor {
         font-size: 1.8em; 
       }
+      .navbar-fixed-top{
+        padding: 0;
+      }
       .inner-bio {
         padding: 65px 35px; 
       }
@@ -515,8 +518,8 @@ footer .fa {
       }
       .titulo_seccion {
     font-size: 1.5em;
-    padding-top: 50px;
-    padding-bottom: 20px;
+    padding-top: 40px;
+    padding-bottom: 0;
 }
 .btn-style {
     font-size: 1em;
