@@ -291,6 +291,7 @@ html {
 	font-size: 1em;
 	text-transform: uppercase;
 	letter-spacing: 1.2px;
+	padding-top: 20px;
 }
 .hoverwelow:hover {
 	background: #262424;
